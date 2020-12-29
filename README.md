@@ -8,4 +8,4 @@
 - 😄 Pronouns: <b><i>Confident</i></b> || <b><i>Versatile</i></b> || <b><i>Adaptive</i></b>
 - ⚡ Fun fact: I am an a <b><i>public speaker</i></b>, a good <b><i>leader</i></b> and at the same time I am an <b><i>introvert</i></b>. 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ankit-akumar&&show_icons=true&title_color=ffffff&icon_color=F1C40F&text_color=FFCDD2&bg_color=FF1744">
+<img src="https://github-readme-stats.vercel.app/api?username=Ankit-akumar&&show_icons=true&title_color=33691E&icon_color=33691E&text_color=33691E&bg_color=9CCC65">
