@@ -11,5 +11,5 @@
   <img src="logos/java logo.png" style="float: left;margin-right: 10px; margin-bottom: 5px;" width="60">
   <img src="logos/kotlin logo.png" style="float: left;margin-right: 10px; margin-bottom: 5px;" width="55">
   <img src="logos/c++ logo.png" style="float: left;margin-right: 10px; margin-bottom: 5px;" width="50">
-  <img src="logos/bash logo.jpg" style="float: left;margin-right: 10px; margin-bottom: 5px;" width="50">
+  <img src="logos/bash.jpg" style="float: left;margin-right: 10px; margin-bottom: 5px;" width="50">
 </p>
